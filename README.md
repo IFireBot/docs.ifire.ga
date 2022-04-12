@@ -1,4 +1,4 @@
-# iFireBot Docs
+### iFireBot Docs
 Here you are the iFireBot TOS and a short description.
 
 # Short description
