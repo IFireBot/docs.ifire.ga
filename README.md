@@ -9,5 +9,3 @@ Its simple! Have you been looking for the perfect bot for months?
 You found it!
 With a intiutive dashboard and some advanced commands you'll definitely love iFireBot.
 
-# Terms of use
-Coming soon...
